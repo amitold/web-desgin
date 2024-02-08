@@ -1,0 +1,40 @@
+#quart{
+    
+}
+#quart .boxquart{
+   display: flex;
+   
+}
+.inch1{
+    margin: 10px 8px 9px 12px;
+    width: 60px;
+    height: 30px;
+}
+.miter1{
+    margin: 10px 8px 9px 12px;
+    width: 80px;
+    height: 30px;
+}
+button{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: black;
+    background-color: rgb(108, 184, 250);
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+}
+button.white{
+    font-size: 13px;
+    font-weight: 600;
+    padding: 11px 18px;
+    color: rgb(230, 241, 242);
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid rgb(240, 232, 232);
+    outline: none;
+    transition: 0.2s;
+}
